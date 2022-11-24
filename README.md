@@ -6,4 +6,4 @@ The original design has the outputs all going to a card edge connector, but I th
 The text of Heiserman's book can easily be found online on archive.org, and I highly encourage trying some of the builds in the book, if only so that I'm not the only one crazy enough to be working through them! I haven't ordered boards yet from this most recent revision (V3), but once I do, I'll have pics of the assembled product running some experiments. 
 
 Here's a video of an earlier revision of the board running a simple moveable square circuit:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p2fEVsLSzvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![2022-11-23](https://user-images.githubusercontent.com/79879072/203691313-1f590cd3-0e1b-4087-b946-11cf27650e67.png)(https://www.youtube.com/watch?v=p2fEVsLSzvE&t=35s)

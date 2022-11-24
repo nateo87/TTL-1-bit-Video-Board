@@ -1,0 +1,39 @@
+Id,Designator,Quantity,Designation
+1,"C17, C25",2,"100uf, electrolytic"
+2,C19,1,"2200uf, electrolytic"
+3,"C1,C2,C3,C4,C5,C13,C11,C16,C18,C8,C12,C6,C9,C10,C7,C15,C14,C26,C20",19,0.1uf
+4,"C21,C24",2,"470uf, electrolytic"
+5,C22,1,"10uf, electrolytic"
+6,C23,1,0.01uf
+7,D1,1,1N4007
+8,D2,1,LED
+9,J1,1,RCA Jack
+10,J2,1,"2x20 IDC socket, 2.54mm pitch"
+11,J3,1,"Barrel_Jack_MountingPin, 5.5x2.1"
+12,J4,1,JST VH 1x4
+13,J5,1,JST PH 1x2
+14,JP1,1,2.54 header pins
+15,JP2,1,2.54 header pins
+16,Q1,1,2N3904 or 2N2222
+17,"R1,R2",2,300ohm
+18,"R10,R7",2,3.3k
+19,R11,1,10ohm
+20,R12,1,330ohm
+21,"R4,R3,R6,R9,R5",5,2.2k
+22,R8,1,75ohm
+23,RV1,1,10k pot
+24,RV2,1,"Bourns trim pot, 1k"
+25,S1,1,"300SP1J1BLKM6QE, switch"
+26,U1,1,74LS04
+27,"U10,U2",2,74LS76
+28,"U12,U3,U11,U4",4,74LS93
+29,"U13,U15",2,74LS02
+30,U14,1,74LS86
+31,U16,1,74LS125
+32,U18,1,LM386
+33,U19,1,LM78S05
+34,U6,1,74LS00
+35,U7,1,74LS30
+36,U8,1,74LS10
+37,"U9,U5",2,74LS74
+38,Y1,1,14.318Mhz

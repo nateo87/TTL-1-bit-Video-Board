@@ -1,5 +1,6 @@
 # TTL-1-bit-Video-Board
-<b>UPDATE 2/2/2025:</b>
+<i><b>UPDATE 2/2/2025:</b></i>
+
 Did another revision of the board. The one I had up here previously was one of my first projects in KiCad, moving away from EasyEDA. The main changes with this revision have to do with size: the board is MUCH smaller, and the footprints for a lot of the passive components have been assigned more appropriately sized designs. I also swapped out the no-longer-produced 74LS76 IC with the much easier to source 74LS109. Still functions the exact same, only difference is pinout and 'K' is now active LOW instead of HIGH. ANYWAYS, on to what I wrote previously:
 
 Here is a TTL-based, 1-bit video board as designed by David L. Heiserman in the book How to Design and Build Your Own Custom TV Games. Corrections have been made from the schematics in the book, mostly just pin number confusions (the later schematics have much more troublesome errors).

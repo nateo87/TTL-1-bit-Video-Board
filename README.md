@@ -6,7 +6,7 @@
 Did another revision of the board. The one I had up here previously was one of my first projects in KiCad, moving away from EasyEDA. The main changes with this revision have to do with size: the board is MUCH smaller, and the footprints for a lot of the passive components have been assigned more appropriately sized designs. I also swapped out the no-longer-produced 74LS76 IC with the much easier to source 74LS109. Still functions the exact same, only difference is pinout and 'K' is now active LOW instead of HIGH. ANYWAYS, on to what I wrote previously: </s>
 
 <b>UPDATE: 5/12/2025 </b>
-Just built one of the newest revision, and whaddya know, a 74LS109 <i>will not</i> work in place of a 74LS76! I built a board over the weekend, and thought maybe I was dealing with pad PCB design that was creating ringing or cross-talk between signals. But nope - it has to use a <i>negative edge</i> triggered JK flip-flop instead of a positive edge trigger. I bodged in a 74LS112 and all was well. I'm currently working on a revision to use the 74LS112 instead. 
+Just built one of the newest revision, and whaddya know, a 74LS109 <i>will not</i> work in place of a 74LS76! I built a board over the weekend, and thought maybe I was dealing with bad PCB design that was creating ringing or cross-talk between signals. But nope - it has to use a <i>negative edge</i> triggered JK flip-flop instead of a positive edge trigger. I bodged in a 74LS112 and all was well. I'm currently working on a revision to use the 74LS112 instead. 
 
 <i>end of update</i>
 

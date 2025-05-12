@@ -7,6 +7,7 @@ Did another revision of the board. The one I had up here previously was one of m
 
 <b>UPDATE: 5/12/2025 </b>
 Just built one of the newest revision, and whaddya know, a 74LS109 <i>will not</i> work in place of a 74LS76! I built a board over the weekend, and thought maybe I was dealing with pad PCB design that was creating ringing or cross-talk between signals. But nope - it has to use a <i>negative edge</i> triggered JK flip-flop instead of a positive edge trigger. I bodged in a 74LS112 and all was well. I'm currently working on a revision to use the 74LS112 instead. 
+
 <i>end of update</i>
 
 Here is a TTL-based, 1-bit video board as designed by David L. Heiserman in the book How to Design and Build Your Own Custom TV Games. Corrections have been made from the schematics in the book, mostly just pin number confusions (the later schematics have much more troublesome errors).
